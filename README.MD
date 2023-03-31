@@ -9,4 +9,6 @@ cd /scripts
 terraform init
 
 terraform apply
+
+terraform destroy
 ```
